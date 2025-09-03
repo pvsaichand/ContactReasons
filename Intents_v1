@@ -1,0 +1,162 @@
+L1 Intent Name	L2 Intent Name	L3 Intent Name	Description of L1|L2|L3 Intent
+Where's my Stuff	Shipped	Delivered not Received	Trigger this intent when the customer is checking the status or tracking information for an order that has already shipped.
+Where's my Stuff	Shipped	In Transit Late	Trigger this intent when the customer is checking the status or tracking information for an order that has already shipped.
+Where's my Stuff	Shipped	 In Transit On Time	Trigger this intent when the customer is checking the status or tracking information for an order that has already shipped.
+Where's my Stuff	Shipped	 Lost By Carrier	Trigger this intent when the customer is checking the status or tracking information for an order that has already shipped.
+Where's my Stuff	Shipped	 No Tracking	Trigger this intent when the customer is checking the status or tracking information for an order that has already shipped.
+Where's my Stuff	Shipped	 Undeliverable	Trigger this intent when the customer is checking the status or tracking information for an order that has already shipped.
+Where's my Stuff	Not Shipped	Delivery Date Changed	Trigger this intent when the customer is asking why their order hasn't shipped yet or when it will ship.
+Where's my Stuff	Not Shipped	Late	Trigger this intent when the customer is asking why their order hasn't shipped yet or when it will ship.
+Where's my Stuff	Not Shipped	 On Time	Trigger this intent when the customer is asking why their order hasn't shipped yet or when it will ship.
+Problem with an Order	Cart Issue	Price Change at Checkout	Trigger this intent when the customer reports a problem with their cart during the ordering process, such as errors at checkout or missing items before purchase.
+Problem with an Order	Cart Issue	 Unable to Checkout	Trigger this intent when the customer reports a problem with their cart during the ordering process, such as errors at checkout or missing items before purchase.
+Problem with an Order	 Chargeback Inquiry	Dispute Chargeback	Trigger this intent when the customer is inquiring about a chargeback related to a past order, including disputes or unexpected refunds.
+Problem with an Order	 Chargeback Inquiry	 Payment Options	Trigger this intent when the customer is inquiring about a chargeback related to a past order, including disputes or unexpected refunds.
+Problem with an Order	 Defective Item	Activation Issue	Trigger this intent when the customer received an item that is defective or not functioning as expected and needs assistance with resolution.
+Problem with an Order	 Defective Item	 Product Defective	Trigger this intent when the customer received an item that is defective or not functioning as expected and needs assistance with resolution.
+Problem with an Order	 Delivery Issue	Damaged Property During Delivery	Trigger this intent when the customer reports a delivery-related problem with an order, such as delays, incomplete delivery, or delivery to the wrong address.
+Problem with an Order	 Extra Item Received	Extra Item	Trigger this intent when the customer received an extra or unintended item in their order and seeks clarification or next steps.
+Problem with an Order	 Installation Issue	Missed Appointment	Trigger this intent when the customer is experiencing problems with the installation of a product included in or purchased with their order.
+Problem with an Order	 Installation Issue	Rescheduled by installer	Trigger this intent when the customer is experiencing problems with the installation of a product included in or purchased with their order.
+Problem with an Order	 Installation Issue	 Two-Step Installation	Trigger this intent when the customer is experiencing problems with the installation of a product included in or purchased with their order.
+Problem with an Order	 Installation Issue	 Damaged Property During Install	Trigger this intent when the customer is experiencing problems with the installation of a product included in or purchased with their order.
+Problem with an Order	 Installation Issue	 Installation Not Completed	Trigger this intent when the customer is experiencing problems with the installation of a product included in or purchased with their order.
+Account Management	Modify Account	Create or Delete Account	Trigger this intent when the customer wants to update or change their account details like email, password, or contact info.
+Account Management	Modify Account	 Email Address	Trigger this intent when the customer wants to update or change their account details like email, password, or contact info.
+Account Management	Modify Account	 Financing	Trigger this intent when the customer wants to update or change their account details like email, password, or contact info.
+Account Management	Modify Account	 Link TD Account	Trigger this intent when the customer wants to update or change their account details like email, password, or contact info.
+Account Management	Modify Account	 Password	Trigger this intent when the customer wants to update or change their account details like email, password, or contact info.
+Account Management	Modify Account	 Physical address	Trigger this intent when the customer wants to update or change their account details like email, password, or contact info.
+Account Management	Modify Account	 Default Payment Method	Trigger this intent when the customer wants to update or change their account details like email, password, or contact info.
+Account Management	 Invoice Request	 Invoice Request	Trigger this intent when the customer is requesting an invoice or proof of purchase for their order.
+Account Management	 Unable to Access Account	Account Tech Issue	Trigger this intent when the customer is having trouble logging into their Samsung account.
+Customer Comment	Feedback	Customer Service, 	Trigger this intent when the customer wants to provide general comments, compliments, or suggestions about products or services.
+Customer Comment	Feedback	Product Feedback	Trigger this intent when the customer wants to provide general comments, compliments, or suggestions about products or services.
+Customer Comment	Feedback	 Website	Trigger this intent when the customer wants to provide general comments, compliments, or suggestions about products or services.
+Knox Guard	Device Locked	Invalid Unlock Request	Trigger this intent when the customer?s device is locked due to Knox Guard and they need assistance unlocking or understanding the reason.
+Knox Guard	Device Locked	Valid Unlock Request	Trigger this intent when the customer?s device is locked due to Knox Guard and they need assistance unlocking or understanding the reason.
+Non Order Related	Financing	Account Linking	Trigger this intent when the customer has questions about financing options, plans, or billing not tied to a specific order.
+Order Modification	Add	Item	Trigger this intent when the customer wants to add items or services to an existing order.
+Order Modification	Add	Promotion	Trigger this intent when the customer wants to add items or services to an existing order.
+Order Modification	Cancel Order	Address Issue, 	Trigger this intent when the customer wants to cancel their entire order before it ships.
+Order Modification	Cancel Order	Backorder	Trigger this intent when the customer wants to cancel their entire order before it ships.
+Order Modification	Cancel Order	 Customer Request	Trigger this intent when the customer wants to cancel their entire order before it ships.
+Order Modification	Cancel Order	 Promotion Issue	Trigger this intent when the customer wants to cancel their entire order before it ships.
+Order Modification	 Modify Order	Billing Address	Trigger this intent when the customer needs to make changes to an existing order, such as quantity, item, or delivery preferences.
+Order Modification	 Modify Order	Customer Request Reschedule Delivery	Trigger this intent when the customer needs to make changes to an existing order, such as quantity, item, or delivery preferences.
+Order Modification	 Modify Order	 Customer Request Reschedule Installation	Trigger this intent when the customer needs to make changes to an existing order, such as quantity, item, or delivery preferences.
+Order Modification	 Modify Order	 Payment Method	Trigger this intent when the customer needs to make changes to an existing order, such as quantity, item, or delivery preferences.
+Order Modification	 Modify Order	 Product	Trigger this intent when the customer needs to make changes to an existing order, such as quantity, item, or delivery preferences.
+Order Modification	 Modify Order	 Shipping Address	Trigger this intent when the customer needs to make changes to an existing order, such as quantity, item, or delivery preferences.
+Order Modification	 Modify Order	 Shipping Method	Trigger this intent when the customer needs to make changes to an existing order, such as quantity, item, or delivery preferences.
+Policy Inquiry	Bulk Order	Bulk Order	Trigger this intent when the customer is asking about policies or discounts for placing a bulk or large quantity order.
+Policy Inquiry	Cancellation Policy	Cancellation Policy	Trigger this intent when the customer wants information about the cancellation policy for orders.
+Policy Inquiry	 Sales Tax	 Sales Tax	Trigger this intent when the customer wants to understand how sales tax is applied to their order.
+Policy Inquiry	 Tax Exemption Eligibility	Tax Exemption	Trigger this intent when the customer is inquiring whether they qualify for tax exemption.
+Policy Inquiry	 Warranty Details	Warranty Terms	Trigger this intent when the customer is asking about warranty coverage, duration, or what it includes.
+Problem with an Order	Item Issue 	Product Damaged During Installation	Trigger this intent when the customer received a damaged, incorrect, or malfunctioning item and is seeking a resolution.
+Problem with an Order	Item Issue 	 Product Damaged Packaging damaged	Trigger this intent when the customer received a damaged, incorrect, or malfunctioning item and is seeking a resolution.
+Problem with an Order	Item Issue 	 Product Damaged Packaging undamaged	Trigger this intent when the customer received a damaged, incorrect, or malfunctioning item and is seeking a resolution.
+Problem with an Order	Missing Item or Part	Empty Box	Trigger this intent when the customer reports a missing item or component from their received order.
+Problem with an Order	Missing Item or Part	 Missing Item	Trigger this intent when the customer reports a missing item or component from their received order.
+Problem with an Order	Missing Item or Part	 Missing Part	Trigger this intent when the customer reports a missing item or component from their received order.
+Problem with an Order	 Promotion	Promotion Not Applied	Trigger this intent when the customer experienced an issue with a promotional offer applied to their order.
+Problem with an Order	 Promotion	 Promotion Not Received	Trigger this intent when the customer experienced an issue with a promotional offer applied to their order.
+Problem with an Order	 Order Cancelled	Out of Stock	Trigger this intent when the customer is following up on or disputing an order that was cancelled unexpectedly.
+Problem with an Order	 Order Cancelled	 Payment Issue	Trigger this intent when the customer is following up on or disputing an order that was cancelled unexpectedly.
+Problem with an Order	 Order Cancelled	 Pricing Error	Trigger this intent when the customer is following up on or disputing an order that was cancelled unexpectedly.
+Problem with an Order	 Order Cancelled	 Quantity Limit Exceeded	Trigger this intent when the customer is following up on or disputing an order that was cancelled unexpectedly.
+Problem with an Order	 Payment	Authorization Release	Trigger this intent when the customer is facing issues related to payment processing or billing errors.
+Problem with an Order	 Payment	Charge Dispute	Trigger this intent when the customer is facing issues related to payment processing or billing errors.
+Problem with an Order	 Payment	 Financing Rejected	Trigger this intent when the customer is facing issues related to payment processing or billing errors.
+Problem with an Order	 Payment	 Financing Technical Issue	Trigger this intent when the customer is facing issues related to payment processing or billing errors.
+Problem with an Order	 Payment	 Payment Tech Issue	Trigger this intent when the customer is facing issues related to payment processing or billing errors.
+Problem with an Order	 Price Match	Competitor	Trigger this intent when the customer is requesting a price match for an item already purchased.
+Problem with an Order	 Price Match	Previous Samsung.com Order	Trigger this intent when the customer is requesting a price match for an item already purchased.
+Problem with an Order	 Refund Request	Service Not Provided	Trigger this intent when the customer is requesting a refund for their order or item.
+Problem with an Order	 Scheduled Delivery	Not Completed	Trigger this intent when the customer is reporting an issue or seeking information about a scheduled delivery.
+Problem with an Order	 Tax Exempt	Tax Refund	Trigger this intent when the customer is disputing tax charges due to claimed exemption.
+Problem with an Order	 Wrong Product Received	 Wrong Product Received	Trigger this intent when the customer received an item different from what they ordered.
+Product purchased at different retailer	Product Support	Warranty	Trigger this intent when the customer needs technical support or help with a Samsung product purchased from another retailer.
+Product purchased at different retailer	Product Support	Retail Promotion	Trigger this intent when the customer needs technical support or help with a Samsung product purchased from another retailer.
+Product Support	Products and Parts	Parts Availability	Trigger this intent when the customer is asking about product features, compatible parts, or replacement components.
+Product Support	Products and Parts	Product Availability	Trigger this intent when the customer is asking about product features, compatible parts, or replacement components.
+Product Support	Products and Parts	 Product Comparisons	Trigger this intent when the customer is asking about product features, compatible parts, or replacement components.
+Product Support	Products and Parts	 Product Features	Trigger this intent when the customer is asking about product features, compatible parts, or replacement components.
+Product Support	Products and Parts	 Technical Support	Trigger this intent when the customer is asking about product features, compatible parts, or replacement components.
+Promotional Subscriptions	Modify Promo Subscription	Modify Adobe Light Room	Trigger this intent when the customer wants to change or update a promotional subscription received with a purchase.
+Promotional Subscriptions	Modify Promo Subscription	 Modify OneDrive	Trigger this intent when the customer wants to change or update a promotional subscription received with a purchase.
+Promotional Subscriptions	Modify Promo Subscription	 Modify SiriusXM	Trigger this intent when the customer wants to change or update a promotional subscription received with a purchase.
+Promotional Subscriptions	Modify Promo Subscription	 Modify Spotify	Trigger this intent when the customer wants to change or update a promotional subscription received with a purchase.
+Promotional Subscriptions	Modify Promo Subscription	 Modify YouTube	Trigger this intent when the customer wants to change or update a promotional subscription received with a purchase.
+Promotional Subscriptions	Redeem	Redeem Adobe Light Room	Trigger this intent when the customer needs help redeeming a promotional subscription.
+Promotional Subscriptions	Redeem	Redeem OneDrive	Trigger this intent when the customer needs help redeeming a promotional subscription.
+Promotional Subscriptions	Redeem	 Redeem SiriusXM	Trigger this intent when the customer needs help redeeming a promotional subscription.
+Promotional Subscriptions	Redeem	 Redeem Spotify	Trigger this intent when the customer needs help redeeming a promotional subscription.
+Promotional Subscriptions	Redeem	 Redeem YouTube	Trigger this intent when the customer needs help redeeming a promotional subscription.
+Promotions	Promotion Support	Promotion Eligibility and Terms	Trigger this intent when the customer has questions or issues related to a specific promotion or discount offer.
+Return Related	How to Return	Eligibility and Terms	Trigger this intent when the customer needs guidance on how to return an item or start the return process.
+Return Related	How to Return	Schedule Pick Up	Trigger this intent when the customer needs guidance on how to return an item or start the return process.
+Return Related	 Missing Refund	Incorrect Refund	Trigger this intent when the customer is following up on a refund they haven't received.
+Return Related	 Missing Refund	Lost in Transit	Trigger this intent when the customer is following up on a refund they haven't received.
+Return Related	 Missing Refund	 Rejected or Unsent	Trigger this intent when the customer is following up on a refund they haven't received.
+Return Related	 Missing Refund	 Rejected return lost in transit	Trigger this intent when the customer is following up on a refund they haven't received.
+Return Related	 Missing Refund	 Restocking Fee	Trigger this intent when the customer is following up on a refund they haven't received.
+Return Related	 Refund Status	Processing Time	Trigger this intent when the customer wants to check the progress or timeline of a refund.
+Return Related	 Return Extension Request	Return Extension Request	Trigger this intent when the customer is asking to extend the return window for their product.
+Return Related	 Return Label Request	 Return Label Request	Trigger this intent when the customer is requesting a return shipping label.
+Return Request	Change of Mind	Color Preference	Trigger this intent when the customer wants to return a product simply because they no longer want it.
+Return Request	Change of Mind	Found Better Price	Trigger this intent when the customer wants to return a product simply because they no longer want it.
+Return Request	Change of Mind	 Performance	Trigger this intent when the customer wants to return a product simply because they no longer want it.
+Return Request	Change of Mind	 Size Preference	Trigger this intent when the customer wants to return a product simply because they no longer want it.
+Return Request	Damaged	Crack in Product	Trigger this intent when the customer is returning a product due to it being damaged.
+Return Request	Damaged	 Dent in Product	Trigger this intent when the customer is returning a product due to it being damaged.
+Return Request	Damaged	 Hole in Product	Trigger this intent when the customer is returning a product due to it being damaged.
+Return Request	Damaged	 Package Damage Only	Trigger this intent when the customer is returning a product due to it being damaged.
+Return Request	Damaged	 Scratch on Product	Trigger this intent when the customer is returning a product due to it being damaged.
+Return Request	 Defective or Missing Parts	Product Support Could Not Fix	Trigger this intent when the customer is returning a product because it is defective or missing parts.
+Return Request	 Defective or Missing Parts	Not Covered by Warranty	Trigger this intent when the customer is returning a product because it is defective or missing parts.
+Return Request	 Delivery	Arrived Late	Trigger this intent when the customer is returning an item due to delivery-related issues, such as wrong delivery.
+Return Request	 Delivery	Poor Delivery Experience	Trigger this intent when the customer is returning an item due to delivery-related issues, such as wrong delivery.
+Return Request	 Installation	Late Installation	Trigger this intent when the customer is returning a product due to problems that occurred during installation.
+Return Request	 Installation	Unable to Install	Trigger this intent when the customer is returning a product due to problems that occurred during installation.
+Return Request	 Wrong Product or Quantity	Delivered Wrong Product	Trigger this intent when the customer received the wrong item or quantity and wants to return it.
+Return Request	 Wrong Product or Quantity	Ordered Too Many	Trigger this intent when the customer received the wrong item or quantity and wants to return it.
+Return Request	 Wrong Product or Quantity	 Ordered Wrong Product	Trigger this intent when the customer received the wrong item or quantity and wants to return it.
+Return Request	 Wrong Product or Quantity	 Ordered Wrong Model of Product	Trigger this intent when the customer received the wrong item or quantity and wants to return it.
+Return Request	 Wrong Product or Quantity	 Received Extra Products	Trigger this intent when the customer received the wrong item or quantity and wants to return it.
+Samsung Rewards	How to Redeem	How to Redeem	Trigger this intent when the customer needs help redeeming Samsung Rewards points.
+Samsung Rewards	Missing Rewards	Missing Rewards	Trigger this intent when the customer believes they did not receive Samsung Rewards points for an eligible purchase.
+Samsung Subscriptions	Eligibility & Terms	Art Store	Trigger this intent when the customer wants to understand the eligibility or terms of a Samsung subscription service.
+Samsung Subscriptions	Eligibility & Terms	Care+	Trigger this intent when the customer wants to understand the eligibility or terms of a Samsung subscription service.
+Samsung Subscriptions	Eligibility & Terms	 Smart Things Cam	Trigger this intent when the customer wants to understand the eligibility or terms of a Samsung subscription service.
+Samsung Subscriptions	Eligibility & Terms	 VIP Advantage	Trigger this intent when the customer wants to understand the eligibility or terms of a Samsung subscription service.
+Samsung Subscriptions	Eligibility & Terms	 Water Filter	Trigger this intent when the customer wants to understand the eligibility or terms of a Samsung subscription service.
+Samsung Subscriptions	Modify Samsung Subscription	Modify::Water Filter	Trigger this intent when the customer wants to change, upgrade, or cancel their Samsung subscription.
+Samsung Subscriptions	Modify Samsung Subscription	Modify Art Store	Trigger this intent when the customer wants to change, upgrade, or cancel their Samsung subscription.
+Samsung Subscriptions	Modify Samsung Subscription	 Modify Care+	Trigger this intent when the customer wants to change, upgrade, or cancel their Samsung subscription.
+Samsung Subscriptions	Modify Samsung Subscription	 Modify Smart Things Cam	Trigger this intent when the customer wants to change, upgrade, or cancel their Samsung subscription.
+Samsung Subscriptions	Modify Samsung Subscription	 Modify VIP Advantage	Trigger this intent when the customer wants to change, upgrade, or cancel their Samsung subscription.
+Trade In	Chargeback Dispute	Blacklisted	Trigger this intent when the customer is disputing a chargeback related to their trade-in transaction.
+Trade In	Chargeback Dispute	Cracked Screen or Camera Lens	Trigger this intent when the customer is disputing a chargeback related to their trade-in transaction.
+Trade In	Chargeback Dispute	 Does not power on	Trigger this intent when the customer is disputing a chargeback related to their trade-in transaction.
+Trade In	Chargeback Dispute	 Locks not disabled	Trigger this intent when the customer is disputing a chargeback related to their trade-in transaction.
+Trade In	Chargeback Dispute	 Not received by Samsung	Trigger this intent when the customer is disputing a chargeback related to their trade-in transaction.
+Trade In	Chargeback Dispute	 Order Returned	Trigger this intent when the customer is disputing a chargeback related to their trade-in transaction.
+Trade In	Chargeback Dispute	 Payment Options	Trigger this intent when the customer is disputing a chargeback related to their trade-in transaction.
+Trade In	Chargeback Dispute	 Unable to Clear Content	Trigger this intent when the customer is disputing a chargeback related to their trade-in transaction.
+Trade In	Chargeback Dispute	 Wrong Item Sent to Samsung	Trigger this intent when the customer is disputing a chargeback related to their trade-in transaction.
+Trade In	Process	Box Request	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	Process	Carrier Bill Credit Inquiry	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	Process	 Device Eligibility	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	Process	 Label Request	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	Process	 Modify Trade-in	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	Process	 RTC Request	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	Process	 RTC Status	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	Process	 Trade-in Instructions	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	Process	 Trade-in Status	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	Process	 Trade-in Value	Trigger this intent when the customer has questions about how the trade-in process works.
+Trade In	 Trade In Extension Request	Extension Request	Trigger this intent when the customer is asking for more time to send in their trade-in device.
+Trade In	 Processing Delay	Delivered	Trigger this intent when the customer wants to know why their trade-in is delayed or not yet processed.
+Trade In	 Processing Delay	Multiple Item Order	Trigger this intent when the customer wants to know why their trade-in is delayed or not yet processed.
+Trade In	 Processing Delay	 Wrong Label	Trigger this intent when the customer wants to know why their trade-in is delayed or not yet processed.
