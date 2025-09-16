@@ -1,0 +1,77 @@
+EXAMPLE - INSIGHT GROUP 
+		
+Insight Group Name	New Jersey	 
+Description	This is the grouping factor based on which the insights group is created	 
+Timezone	Insights can be generated based on timezones	 
+Share with	 	 
+ 		 
+METRICS AND DIMENSIONS OF INTEREST
+ 		 
+Metric Name	Metric Display Name (If need to rename)	Aggregation(SUM, AVG, etc)
+Standard (will be shared with * in the report)	CSAT, Case Count, Avg Quality Score, Case duration	 
+5 custom metrics to be shared by *
+Eg: 
+Resolution time
+Channel specific case volume
+Sentiment improvement/ resolution time= channel effectiveness rate
+Customer demographic behaviour
+SLA Compliance	 	 
+Channel-Specific Case Volume (%)	Percentage of cases received via each channel	 
+Case Frequency by Segment	Average number of cases per demographic group	Demographic group- require clarity
+State, region and teams
+Customer Satisfaction (CSAT) Score	Average rating provided by customers post-resolution	 
+Escalation Rate (%)	Percentage of cases escalated to higher support tiers	 
+Agent Availability Ratio	Ratio of available agents to peak-time case volume.	 
+ 	 	 
+Dimension Name	Dimension Display Name (If need to rename)	 
+Case Type	Categories of issues (e.g., technical, payment, promotions, account verification)	 
+Agent Team	Group or team to which an agent belongs.	 
+Sentiment Category	Categories of sentiment (e.g., positive, neutral, negative)	 
+Time of Day	Hour, minute, or segment (e.g., morning, afternoon, evening)	 
+Case Priority	Levels of urgency (e.g., high, medium, low)	 
+Case Status	Current stage (e.g., Open, In Progress, Resolved, Escalated).	 
+Contact Channel	Medium through which the customer contacted support (e.g., chat, email, phone, social media)	 
+ 		 
+FILTERS
+ 		 
+Filter Field Name	Contains / Not Contains / Exists	Value
+State	Contains	 
+Product	 	 
+Sub-Product	 	 
+etc (* team can customise and share more values as needed, these will be used for filtering the metrics and dimensions plotted)	 	 
+ 		 
+INSIGHT PREFERENCES
+Statistical	Yes	 
+Product or Service Insights	Yes	 
+Agent Quality Insights	Yes	 
+ 		 
+ 		 
+Focus Area Name	Focus Area Description	 
+Case Categories	Breakdown of issues (e.g., technical issues, payment problems, account verification, promotional inquiries).
+Frequency of each category over time.	 
+Resolution Time Analysis	Average time to resolve cases.
+Percentage of cases resolved within SLA (Service Level Agreement) timelines.
+Bottlenecks in case resolution.	 
+Customer Sentiment	Sentiment analysis on customer interactions (positive, neutral, negative).
+Trends in sentiment changes after resolution.	 
+Contact Channels Performance	Performance metrics by channel (chat, email, phone, social media).
+Channel preferences among different customer segments.	 
+Root Cause Analysis	Identification of recurring issues causing the most customer complaints.
+Systematic issues related to the platform or processes.	 
+Customer Demographics and Behavior	Correlation between case types and customer demographics (e.g., age, region, betting habits).
+Identifying high-value customers with frequent issues	 
+Impact of Promotions and Offers	Cases related to misunderstood or misapplied promotions.
+Resolution rates for promotional-related issues.	 
+Agent Performance	Case handling efficiency by individual agents or teams.
+Feedback ratings for agents and training needs.	 
+Feedback and Satisfaction	Net Promoter Score (NPS) or customer satisfaction scores post-resolution.
+Common themes in feedback from dissatisfied customers.	 
+Escalation Patterns	Percentage of cases escalated to higher support tiers.
+Reasons for escalations and resolution effectiveness.	 
+		 
+Agent Skill Name	Agent Skill Description	 
+Empathy and Patience	Demonstrating understanding and calmness, even in high-pressure situations	 
+Clear Verbal and Written Communication	Ability to explain resolutions concisely and professionally across channels (e.g., chat, email, phone)	 
+Conflict Resolution	De-escalating angry or frustrated customers effectively	 
+Platform Familiarity	Deep understanding of * Sportsbook's platform, features, and processes	 
+
